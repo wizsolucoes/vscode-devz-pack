@@ -1,0 +1,45 @@
+{
+    "name": "devz-pack",
+    "publisher":"WizSolucoes",
+    "displayName": "DevZ Pack",
+    "description": "Pacote com extensões do VSCode recomendadas para os DevZs",
+    "version": "0.0.1",
+    "icon": "resources/logo-devz.jpg",
+    "engines": {
+        "vscode": "^1.43.0"
+    },
+    "categories": [
+        "Extension Packs"
+    ],
+    "galleryBanner": {
+        "color": "#FF9100",
+        "theme": "dark"
+    },
+    "keywords": [
+        "Wiz Soluções",
+        "Wiz",
+        "DevZ"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/wizsolucoes/vscode-devz-pack"
+    },
+    "homepage": "https://github.com/wizsolucoes/vscode-devz-pack/blob/master/README.md",
+    "extensionPack": [ 
+        "aaron-bond.better-comments",
+        "christian-kohler.path-intellisense",
+        "CoenraadS.bracket-pair-colorizer",
+        "esbenp.prettier-vscode",
+        "donjayamanne.githistory", 
+        "eamodio.gitlens",
+        "SonarSource.sonarlint-vscode", 
+        "streetsidesoftware.code-spell-checker", 
+        "VisualStudioExptTeam.vscodeintellicode", 
+        "MS-CST-E.vscode-devskim",
+        "ms-vscode-remote.remote-ssh-edit", 
+        "ms-vscode-remote.vscode-remote-extensionpack", 
+        "ms-vsliveshare.vsliveshare-pack", 
+        "softwaredotcom.music-time", 
+        "softwaredotcom.swdc-vscode"
+    ]
+}
