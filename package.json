@@ -4,7 +4,7 @@
     "displayName": "DevZ Pack",
     "description": "Pacote com extensões do VSCode recomendadas para os DevZs",
     "version": "0.0.1",
-    "icon": "resources/logo-devz.jpg",
+    "icon": "resources/logo-devz.png",
     "engines": {
         "vscode": "^1.43.0"
     },
