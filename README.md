@@ -1,4 +1,4 @@
-# DevZ - Back-end Pack
+# DevZ Pack
 
 [DevZ Pack](https://marketplace.visualstudio.com/items?itemName=WizSolucoes.devz-pack) é uma forma de ajudar novos Wizzer que vão trabalhar como desenvolvedor. O time de Governança e Metodologia de Desenvolvimento fez uma pesquisa com outros DevZs para fazer essa curadoria de extensões.
 
