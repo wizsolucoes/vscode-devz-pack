@@ -49,7 +49,7 @@
         "davidanson.vscode-markdownlint",
         "quicktype.quicktype",
         "jebbs.plantuml",
-        
+        "42Crunch.vscode-openapi"
 
     ]
 }

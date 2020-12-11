@@ -19,6 +19,7 @@
 * [HTTP/s and relative link checker](https://marketplace.visualstudio.com/items?itemName=blackmist.linkcheckmd)
 * [markdownlint](https://marketplace.visualstudio.com/items?itemName=davidanson.vscode-markdownlint)
 * [Music Time](https://marketplace.visualstudio.com/items?itemName=softwaredotcom.music-time)
+* [OpenAPI (Swagger) Editor](https://marketplace.visualstudio.com/items?itemName=42Crunch.vscode-openapi)
 * [Paste JSON as Code](https://marketplace.visualstudio.com/items?itemName=quicktype.quicktype)
 * [Path Intelisense](https://marketplace.visualstudio.com/items?itemName=christian-kohler.path-intellisense)
 * [PlantUML](https://marketplace.visualstudio.com/items?itemName=jebbs.plantuml)
