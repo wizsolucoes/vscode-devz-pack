@@ -40,6 +40,16 @@
         "ms-vscode-remote.vscode-remote-extensionpack", 
         "ms-vsliveshare.vsliveshare-pack", 
         "softwaredotcom.music-time", 
-        "softwaredotcom.swdc-vscode"
+        "softwaredotcom.swdc-vscode",
+        "docsmsft.docs-authoring-pack",
+        "hediet.vscode-drawio",
+        "efanzh.graphviz-preview",
+        "blackmist.linkcheckmd",
+        "ritwickdey.liveserver",
+        "davidanson.vscode-markdownlint",
+        "quicktype.quicktype",
+        "jebbs.plantuml",
+        
+
     ]
 }
