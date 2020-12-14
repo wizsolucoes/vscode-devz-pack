@@ -14,7 +14,6 @@
 * [GitHistory](https://marketplace.visualstudio.com/items?itemName=donjayamanne.githistory)
 * [GitLens — Git supercharged](https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens)
 * [Graphviz Preview](https://marketplace.visualstudio.com/items?itemName=efanzh.graphviz-preview)
-* [Live Server](https://marketplace.visualstudio.com/items?itemName=ritwickdey.liveserver)
 * [Live Share Extension Pack](https://marketplace.visualstudio.com/items?itemName=ms-vsliveshare.vsliveshare-pack)
 * [HTTP/s and relative link checker](https://marketplace.visualstudio.com/items?itemName=blackmist.linkcheckmd)
 * [markdownlint](https://marketplace.visualstudio.com/items?itemName=davidanson.vscode-markdownlint)
