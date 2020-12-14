@@ -33,7 +33,7 @@
         "donjayamanne.githistory", 
         "eamodio.gitlens",
         "SonarSource.sonarlint-vscode", 
-        "streetsidesoftware.code-spell-checker", 
+        "streetsidesoftware.code-spell-checker-portuguese-brazilian", 
         "VisualStudioExptTeam.vscodeintellicode", 
         "MS-CST-E.vscode-devskim",
         "ms-vscode-remote.remote-ssh-edit", 
@@ -49,7 +49,8 @@
         "davidanson.vscode-markdownlint",
         "quicktype.quicktype",
         "jebbs.plantuml",
-        "42Crunch.vscode-openapi"
-
+        "SonatypeCommunity.vscode-iq-plugin",
+        "bierner.markdown-mermaid",
+        "ms-vscode.vs-keybindings"
     ]
 }
